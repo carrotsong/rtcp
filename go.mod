@@ -1,4 +1,4 @@
-module github.com/pion/rtcp
+module github.com/carrotsong/rtcp
 
 go 1.13
 
